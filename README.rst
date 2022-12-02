@@ -15,18 +15,9 @@ datashelf
 
 
 
-
 Convenient management of datasets
 
-
-* Free software: MIT license
-* Documentation: https://datashelf.readthedocs.io.
-
-
-Features
---------
-
-* TODO
+- Placeholder
 
 Credits
 -------
