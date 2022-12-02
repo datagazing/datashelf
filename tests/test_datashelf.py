@@ -5,7 +5,7 @@
 
 import unittest
 
-from datashelf import datashelf
+# from datashelf import datashelf
 
 
 class TestDatashelf(unittest.TestCase):
