@@ -1,4 +1,8 @@
-"""Top-level package for datashelf."""
+"""
+Convenient management of datasets
+
+- Placeholder
+"""
 
 __author__ = """Brendan Strejcek"""
 __email__ = 'brendan@datagazing.com'
